@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+namespace WFAlista2
 {
     public partial class Exercicio03 : Form
     {

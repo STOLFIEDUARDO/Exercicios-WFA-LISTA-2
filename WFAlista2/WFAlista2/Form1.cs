@@ -44,20 +44,20 @@ namespace WFAlista2
 
         private void button5_Click(object sender, EventArgs e)
         {
-            /* Exercicio05 exercicio05 = new Exercicio05();
-            exercicio05.Show();*/
+            Exercicio05 exercicio05 = new Exercicio05();
+            exercicio05.Show();
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            /* Exercicio06 exercicio06 = new Exercicio06();
-            exercicio06.Show();*/
+            Exercicio06 exercicio06 = new Exercicio06();
+            exercicio06.Show();
         }
 
         private void button7_Click(object sender, EventArgs e)
         {
-            /* Exercicio07 exercicio07 = new Exercicio07();
-            exercicio07.Show();*/
+            Exercicio07 exercicio07 = new Exercicio07();
+            exercicio07.Show();
         }
 
         private void button8_Click(object sender, EventArgs e)
